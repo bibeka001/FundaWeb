@@ -1,0 +1,23 @@
+.btn-wrapper button{
+    background-color: red;
+    border: 0px;
+    padding: 10px;
+    border-radius: 4px;
+    color: #fff;
+}
+.img-wrapper img{
+    width: 100px;
+    margin-top: -10px;
+}
+.cart-wrapper{
+    height: 100px;
+    width: 500px;
+    border: 1px solid #ccc;
+    margin-left: 10%;
+}
+.item{
+    float: left;
+    display: inline-block;
+    width: 120px;
+    padding: 20px;
+}
